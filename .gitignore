@@ -1,0 +1,6 @@
+# Never commit secrets
+.env
+*.local.json
+webhooks.json
+.dev.vars
+node_modules/
